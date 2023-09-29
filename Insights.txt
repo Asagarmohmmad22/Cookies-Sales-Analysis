@@ -1,0 +1,12 @@
+Insights
+Total Revenue is - 5M
+Total cose is - 2M
+total order id - 700
+total customer id - 5
+Total type of Cookies - 6
+heigest saling product is - Choclate Chip and
+it's revenue is 1.69M 
+lowest - Forture cookie - 0.15M
+State wise revenue :
+Heigest revenue state is - WI
+lowest revenue state is -WA
